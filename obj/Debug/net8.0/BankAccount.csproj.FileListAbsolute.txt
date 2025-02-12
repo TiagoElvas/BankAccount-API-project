@@ -1,0 +1,17 @@
+/home/tiago/dotNet/BankAccount/bin/Debug/net8.0/BankAccount
+/home/tiago/dotNet/BankAccount/bin/Debug/net8.0/BankAccount.deps.json
+/home/tiago/dotNet/BankAccount/bin/Debug/net8.0/BankAccount.runtimeconfig.json
+/home/tiago/dotNet/BankAccount/bin/Debug/net8.0/BankAccount.dll
+/home/tiago/dotNet/BankAccount/bin/Debug/net8.0/BankAccount.pdb
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfoInputs.cache
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.AssemblyInfo.cs
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.csproj.CoreCompileInputs.cache
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.dll
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/refint/BankAccount.dll
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.pdb
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.genruntimeconfig.cache
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/ref/BankAccount.dll
+/home/tiago/dotNet/BankAccount/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.csproj.AssemblyReference.cache
+/home/tiago/dotNet/BankAccount/obj/Debug/net8.0/BankAccount.csproj.CopyComplete
